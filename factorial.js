@@ -1,6 +1,6 @@
 function factorial() {
     let n = parseInt(document.getElementById('n').value);
-    let factorial = n;
+    let factorial = 1;
     let i = 2;
 
     while (i <= n) {
